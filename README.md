@@ -1,4 +1,6 @@
-# JavaScript Framework Starters
+# 0179_js_framework_starters
+
+## JavaScript Framework Starters
 
 - A presentation with Hispanic Hackers Tech Group
 - Setting up basic structures for major JavaScript libraries/frameworks
@@ -10,7 +12,7 @@
 
 ## HTML/JS/CSS
 
-https://designmodo.com/html5-examples/
+<https://designmodo.com/html5-examples/>
 
 ---
 
@@ -140,6 +142,7 @@ module.exports = {
 ## Sveltekit Starter Guide with Timothy Hoang
 
 #### Recommended Links & Extensions
+
 - [Sveltekit Docs](https://kit.svelte.dev/docs/introduction)
 - [Svelte realworld](https://github.com/sveltejs/realworld)
 - [Svelte Society](https://sveltesociety.dev/)
